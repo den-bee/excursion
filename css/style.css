@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+ body {
+   background-color: black;
+   text-align: center;
+ }
+
+h3 {
+  font-family: "Verdana";
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h4 {
+  font-family: "Verdana";
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p {
+  color: gray;
+  font-family: "Verdana";
+  font-size: 21px;
+  width: 100%;
+}
+
+a {
+  color: Aquamarine
+  font-size: 16px;
+}
+
+.camp-image {
+  margin-bottom: 50px;
+}
+
+.copyright {
+  display: flex;
+  color: gray;
+  text-align: right;
+  padding: 5px;
+}
